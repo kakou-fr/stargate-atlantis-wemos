@@ -1,6 +1,7 @@
 # stargate-atlantis-wemos
 
 Based on the code of : https://github.com/danclarke/WorkingStargateMk2Raspi
+STL : https://www.thingiverse.com/thing:3153542
 
 Create a secret.h file into src with  the following code :
 ```
