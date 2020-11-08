@@ -1,5 +1,7 @@
 # stargate-atlantis-wemos
 
+Based on the code of : https://github.com/danclarke/WorkingStargateMk2Raspi
+
 Create a secret.h file into src with  the following code :
 ```
 // Replace with your network credentials
